@@ -23,14 +23,20 @@ Pixel Scape is a dynamic wallpaper app built with Flutter, allowing users to set
 
 ## 📸 Screenshots  
 
-### Home Screen  
-<img src="https://github.com/kundan-ksr/pixelscape/raw/master/assets/App%20images/home_screen.png" alt="Home Screen" width="300" height="400">  
-
-### Wallpaper Customization  
+### Icon & Home Screen  
 <div>
-<img src="https://github.com/kundan-ksr/pixelscape/raw/master/assets/App%20images/customize_wallpaper.png" alt="Wallpaper Customization" width="300" height="400" style="margin-right: 40px;">
-<img src="https://github.com/kundan-ksr/pixelscape/raw/master/assets/App%20images/search_wallpaper.png" alt="Wallpaper Search" width="300" height="400">  
+<img src="https://github.com/kundan-ksr/pixelscape/blob/main/lib/assets/icon.jpg" alt="Icon" width="300" height="300" style="margin-right: 40px, margin-bottom : 30px"> 
+   &nbsp&nbsp&nbsp&nbsp
+<img src="https://github.com/kundan-ksr/pixelscape/blob/main/lib/assets/home.jpg" alt="Home Screen" width="300" height="600">  
 </div>
+
+### Search & Apply  
+<div>
+<img src="https://github.com/kundan-ksr/pixelscape/blob/main/lib/assets/searchImage.jpg" alt="Searched Image" width="300" height="600" style="margin-right: 40px;"> &nbsp&nbsp&nbsp&nbsp
+<img src="https://github.com/kundan-ksr/pixelscape/blob/main/lib/assets/setImage.jpg" alt="Set wallpaper" width="300" height="600" style="margin-left: 70px;">  
+</div>
+
+
 
 ## 📚 Setup and Installation  
 
