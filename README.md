@@ -79,7 +79,7 @@ APIs for providing dynamic and high-quality wallpapers.
 <ul>
 <li>GitHub: https://github.com/kundan-ksr</li>
 <li>Email: shivaayssr@gmail.com</li>
-<li>LinkedIn: nkedin.com/in/kundan08/</li>
+<li>LinkedIn: linkedin.com/in/kundan08/</li>
 </ul>
 
 Feel free to reach out for any questions or suggestions.
